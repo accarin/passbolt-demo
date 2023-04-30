@@ -1,0 +1,1 @@
+su -s /bin/bash -c "/usr/share/php/passbolt/bin/cake passbolt register_user -u admin@passbolt.local -f Administrator -l Passbolt -r admin" www-data
